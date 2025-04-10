@@ -1,6 +1,4 @@
-Nice! Here's a simple but clean `README.md` template you can use for your FastAPI CRUD API project on GitHub. Feel free to tweak the tone, add screenshots, or include additional sections depending on your style:
 
----
 
 # 🚀 FastAPI CRUD API
 
